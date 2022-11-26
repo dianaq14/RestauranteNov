@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="text_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_Welcome">Welcome to</string>
+    <string name="Restaurante">Loto Flavor Fusión</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu Food</string>
+    <string name="Reservation">Reservation</string>
+    <string name="delivery">Delivery</string>
+    <string name="logOut">Logout</string>
+    <string name="text_Introduction">Introduction</string>
+    <string name="explain">We are innovation, tradition and vanguard.
+        We bring the latest techniques and culinary trends to our guests to offer them a complete gastrosensory experience, always keeping the essence of our cuisine. </string>
+    <string name="messageusername">Message user</string>
+    <string name="messagepassword">Message password</string>
+    <string name="messagecode">Message password</string>
+    <string name="name">Name</string>
+    <string name="nit">Id Number</string>
+    <string name="Resgitro_password">Register Password</string>
+    <string name="Email">Email</string>
+    <string name="lastname">Last Name</string>
+    <string name="Telephone">Telephone</string>
+    <string name="create_your_acccount">Create your Acccount</string>
+    <string name="save">Save</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="myprofile">My profile</string>
+    <string name="order_and_eat">Order and Eat</string>
+    <string name="loto_flavor_fusion_men">Loto Flavor Fusion Menú</string>
+    <string name="loto_flavor_fusion_reservation">Loto Flavor Fusion Dates</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Address">Address</string>
+    <string name="text_btnforgotpwd">Forgot Password?</string>
+    <string name="text_btnforgotuser">Forgot User</string>
+    <string name="text_forgotpwd">We can help you reset your password and security info. First, enter your email and follow the instructions below.</string>
+    <string name="btn_send">Send Code</string>
+    <string name="about_us">About us</string>
+    <string name="our">Since 2003 Loto Flavor Fusion is a restaurant that fuses the richness of our traditional Mediterranean food, Asian food and the best dishes of fast food providing a unique flavor in each of its dishes.</string>
+    <string name="prefs_file">com.example.restaurante.PREFERENCE_FILE_KEY</string>
+    <string name="text_forgotusr">We can help you to remember your user info. First, enter your email and follow the instructions below.</string>
+</resources>

@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Restaurante</string>
+    <string name="text_username" >Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_Welcome">Bienvenidos a</string>
+    <string name="Restaurante">Loto Fusión</string>
+    <string name="home">Inicio</string>
+    <string name="menu">Carta </string>
+    <string name="Reservation">Reservación</string>
+    <string name="delivery">Domicilios</string>
+    <string name="logOut">Cerrar sesión</string>
+    <string name="text_Introduction">Introducción</string>
+    <string name="explain">Somos innovación, tradición y vanguardia. A
+        cercamos las últimas técnicas y tendencias culinarias a nuestros comensales para ofrecerles una experiencia gastrosensorial completa, siempre manteniendo la esencia de nuestra cocina.</string>
+    <string name="messageusername">Mensaje usuario</string>
+    <string name="messagepassword">Mensaje Contraseña</string>
+    <string name="messagecode">Mensaje Código</string>
+    <string name="name">Nombre</string>
+    <string name="nit"> Numero Identificación</string>
+    <string name="Resgitro_password">Contraseña</string>
+    <string name="Email">Email</string>
+    <string name="lastname">Apellido</string>
+    <string name="Telephone">Teléfono</string>
+    <string name="create_your_acccount">Crea tu cuenta</string>
+    <string name="save">Guardar</string>
+    <string name="sign_up">Registrate</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="myprofile">Mi Perfil</string>
+    <string name="order_and_eat">Haz tu orden</string>
+    <string name="loto_flavor_fusion_men">Loto Flavor Fusion Menú</string>
+    <string name="loto_flavor_fusion_reservation">Loto Flavor Fusion Reservaciones</string>
+    <string name="Address">Dirrección</string>
+    <string name="text_btnforgotpwd">Forgot Password?</string>
+    <string name="text_btnforgotuser">Forgot User</string>
+    <string name="text_forgotpwd">Forgot User</string>
+    <string name="btn_send">Forgot User</string>
+    <string name="about_us">Quienes somos</string>
+    <string name="our">Creado en 2003 Loto Flavor fusión es un restaurant que fusiona lo rico de nuestra comida tradicional comida mediterranea, asiatica y los mejores platos de la comida rápida brindando un sabor único en cada uno de sus platillos.  </string>
+    <string name="prefs_file" tools:ignore="ExtraTranslation">com.mouredev.restaurante.PREFERENCE_FILE_KEY</string>
+    <string name="text_forgotusr">Le podemos ayudar a recordar su nombre de usuario. First, enter your email and follow the instructions below.</string>
+</resources>

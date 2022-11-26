@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivityForgotpwd"
+    android:layout_margin="18dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imgViewSeries"
+            android:layout_width="197dp"
+            android:layout_height="156dp"
+            android:layout_gravity="center"
+            android:src="@drawable/restaurante" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_forgotpwd"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/ed_textUsername"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:hint="correo@gmail.com"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btn_sendcode"
+            android:background="#6C80E4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_send"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:layout_marginTop="25dp"
+            android:onClick="onSendcode"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please enter the code that has been sent to your mail"
+            android:textAlignment="center"
+            android:layout_marginTop="15sp"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/ed_checkCode"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:hint="code"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btn_checkCode"
+            android:background="#6C80E4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Check Code"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:layout_marginTop="25dp"
+            android:onClick="onCheckcode"/>
+
+    </LinearLayout>
+
+</LinearLayout>
